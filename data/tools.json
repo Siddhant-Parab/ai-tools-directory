@@ -1,0 +1,2072 @@
+[
+  {
+    "slug": "chatgpt",
+    "name": "ChatGPT",
+    "category": "chat",
+    "description": "General-purpose conversational assistant for writing, research, coding help, and everyday questions.",
+    "tags": ["assistant", "general", "free-tier"],
+    "url": "https://chat.openai.com",
+    "pricing": "Free tier + paid plans",
+    "featured": true
+  },
+  {
+    "slug": "perplexity",
+    "name": "Perplexity",
+    "category": "chat",
+    "description": "Answer engine that pairs chat with live web search and cited sources for research-style questions.",
+    "tags": ["search", "research", "citations"],
+    "url": "https://www.perplexity.ai",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "midjourney",
+    "name": "Midjourney",
+    "category": "image",
+    "description": "Text-to-image generator known for painterly, highly stylized output, run through Discord or a web app.",
+    "tags": ["text-to-image", "art"],
+    "url": "https://www.midjourney.com",
+    "pricing": "Paid plans only",
+    "featured": true
+  },
+  {
+    "slug": "leonardo-ai",
+    "name": "Leonardo Ai",
+    "category": "image",
+    "description": "Image generation platform with fine-tuned models for game assets, product shots, and concept art.",
+    "tags": ["text-to-image", "game-assets"],
+    "url": "https://leonardo.ai",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "runway",
+    "name": "Runway",
+    "category": "video",
+    "description": "Text-to-video and video-editing suite with generative effects, green-screen, and motion tracking.",
+    "tags": ["text-to-video", "editing"],
+    "url": "https://runwayml.com",
+    "pricing": "Free tier + paid plans",
+    "featured": true
+  },
+  {
+    "slug": "pika",
+    "name": "Pika",
+    "category": "video",
+    "description": "Fast text- and image-to-video generator aimed at short clips, loops, and social content.",
+    "tags": ["text-to-video", "social"],
+    "url": "https://pika.art",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "elevenlabs",
+    "name": "ElevenLabs",
+    "category": "voice",
+    "description": "Realistic text-to-speech and voice cloning for narration, dubbing, and character voices.",
+    "tags": ["text-to-speech", "voice-cloning"],
+    "url": "https://elevenlabs.io",
+    "pricing": "Free tier + paid plans",
+    "featured": true
+  },
+  {
+    "slug": "whisper",
+    "name": "Whisper",
+    "category": "voice",
+    "description": "Open-source speech-to-text model for transcription and translation across many languages.",
+    "tags": ["transcription", "open-source"],
+    "url": "https://openai.com/research/whisper",
+    "pricing": "Free, self-hosted",
+    "featured": false
+  },
+  {
+    "slug": "suno",
+    "name": "Suno",
+    "category": "music",
+    "description": "Generate full songs with vocals and instrumentation from a short text description.",
+    "tags": ["text-to-music", "vocals"],
+    "url": "https://suno.com",
+    "pricing": "Free tier + paid plans",
+    "featured": true
+  },
+  {
+    "slug": "udio",
+    "name": "Udio",
+    "category": "music",
+    "description": "AI music generator for original tracks and instrumentals, with fine control over style and structure.",
+    "tags": ["text-to-music", "instrumentals"],
+    "url": "https://www.udio.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "jasper",
+    "name": "Jasper",
+    "category": "writer",
+    "description": "AI writing platform for marketing copy, blog posts, and brand-consistent content at scale.",
+    "tags": ["marketing-copy", "brand-voice"],
+    "url": "https://www.jasper.ai",
+    "pricing": "Paid plans only",
+    "featured": true
+  },
+  {
+    "slug": "copy-ai",
+    "name": "Copy.ai",
+    "category": "writer",
+    "description": "Templates and workflows for ad copy, product descriptions, and sales emails.",
+    "tags": ["copywriting", "templates"],
+    "url": "https://www.copy.ai",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "github-copilot",
+    "name": "GitHub Copilot",
+    "category": "code",
+    "description": "In-editor AI pair programmer that suggests code, tests, and fixes across most languages.",
+    "tags": ["autocomplete", "ide-extension"],
+    "url": "https://github.com/features/copilot",
+    "pricing": "Paid plans only",
+    "featured": true
+  },
+  {
+    "slug": "cursor",
+    "name": "Cursor",
+    "category": "code",
+    "description": "AI-native code editor built for large edits, refactors, and codebase-wide questions.",
+    "tags": ["editor", "refactoring"],
+    "url": "https://cursor.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "uizard",
+    "name": "Uizard",
+    "category": "design",
+    "description": "Turn sketches or text prompts into editable UI mockups and clickable prototypes.",
+    "tags": ["ui-mockups", "prototyping"],
+    "url": "https://uizard.io",
+    "pricing": "Free tier + paid plans",
+    "featured": true
+  },
+  {
+    "slug": "galileo-ai",
+    "name": "Galileo AI",
+    "category": "design",
+    "description": "Generate polished, editable UI designs from short text descriptions of a screen or flow.",
+    "tags": ["ui-generation", "product-design"],
+    "url": "https://www.usegalileo.ai",
+    "pricing": "Paid plans only",
+    "featured": false
+  },
+  {
+    "slug": "notion-ai",
+    "name": "Notion AI",
+    "category": "business",
+    "description": "Built-in AI for Notion workspaces: meeting notes, project summaries, and task drafting.",
+    "tags": ["docs", "productivity"],
+    "url": "https://www.notion.so/product/ai",
+    "pricing": "Add-on to paid plans",
+    "featured": true
+  },
+  {
+    "slug": "fireflies",
+    "name": "Fireflies.ai",
+    "category": "business",
+    "description": "Records, transcribes, and summarizes meetings, and pulls out action items automatically.",
+    "tags": ["meetings", "transcription"],
+    "url": "https://fireflies.ai",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "consensus",
+    "name": "Consensus",
+    "category": "study",
+    "description": "Search engine for academic papers that summarizes findings and highlights consensus across studies.",
+    "tags": ["research", "academic"],
+    "url": "https://consensus.app",
+    "pricing": "Free tier + paid plans",
+    "featured": true
+  },
+  {
+    "slug": "socratic",
+    "name": "Socratic",
+    "category": "study",
+    "description": "Snap a photo of a homework question and get a step-by-step explanation of the concept.",
+    "tags": ["homework-help", "k-12"],
+    "url": "https://socratic.org",
+    "pricing": "Free",
+    "featured": false
+  },
+  {
+    "slug": "framer-ai",
+    "name": "Framer AI",
+    "category": "website-builder",
+    "description": "Describe a site in a sentence and get a full, editable, responsive website to publish.",
+    "tags": ["landing-pages", "no-code"],
+    "url": "https://www.framer.com/ai",
+    "pricing": "Free tier + paid plans",
+    "featured": true
+  },
+  {
+    "slug": "durable",
+    "name": "Durable",
+    "category": "website-builder",
+    "description": "Generates a small-business website, copy, and images in under a minute from a business type.",
+    "tags": ["small-business", "no-code"],
+    "url": "https://durable.co",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "claude",
+    "name": "Claude",
+    "category": "chat",
+    "description": "Thoughtful conversational assistant for analysis, writing, coding, and long documents.",
+    "tags": ["assistant", "analysis", "long-context"],
+    "url": "https://claude.ai",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "gemini",
+    "name": "Gemini",
+    "category": "chat",
+    "description": "Google's multimodal assistant for answering questions, creating content, and working with files.",
+    "tags": ["assistant", "multimodal", "google"],
+    "url": "https://gemini.google.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "adobe-firefly",
+    "name": "Adobe Firefly",
+    "category": "image",
+    "description": "Generate and edit images, vectors, and creative assets with Adobe's generative AI tools.",
+    "tags": ["text-to-image", "editing", "adobe"],
+    "url": "https://firefly.adobe.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "ideogram",
+    "name": "Ideogram",
+    "category": "image",
+    "description": "Create expressive images with strong typography, poster layouts, and visual styles.",
+    "tags": ["text-to-image", "typography", "design"],
+    "url": "https://ideogram.ai",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "luma-dream-machine",
+    "name": "Luma Dream Machine",
+    "category": "video",
+    "description": "Generate cinematic video clips from text and images with natural motion and camera control.",
+    "tags": ["text-to-video", "image-to-video", "cinematic"],
+    "url": "https://lumalabs.ai/dream-machine",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "heygen",
+    "name": "HeyGen",
+    "category": "video",
+    "description": "Create presenter videos with AI avatars, voiceovers, translation, and lip synchronization.",
+    "tags": ["avatars", "dubbing", "presentations"],
+    "url": "https://www.heygen.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "murf",
+    "name": "Murf",
+    "category": "voice",
+    "description": "Studio for producing natural AI voiceovers for videos, presentations, and training content.",
+    "tags": ["text-to-speech", "voiceover", "studio"],
+    "url": "https://murf.ai",
+    "pricing": "Free trial + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "descript",
+    "name": "Descript",
+    "category": "voice",
+    "description": "Edit audio and video by editing the transcript, with transcription, overdub, and cleanup tools.",
+    "tags": ["transcription", "audio-editing", "podcasts"],
+    "url": "https://www.descript.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "aiva",
+    "name": "AIVA",
+    "category": "music",
+    "description": "Compose original instrumental music for films, games, videos, and other creative projects.",
+    "tags": ["composition", "soundtracks", "instrumentals"],
+    "url": "https://www.aiva.ai",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "soundraw",
+    "name": "Soundraw",
+    "category": "music",
+    "description": "Generate royalty-free music and customize mood, length, tempo, and instruments for your project.",
+    "tags": ["royalty-free", "soundtracks", "customization"],
+    "url": "https://soundraw.io",
+    "pricing": "Paid plans only",
+    "featured": false
+  },
+  {
+    "slug": "grammarly",
+    "name": "Grammarly",
+    "category": "writer",
+    "description": "Improve clarity, correctness, tone, and impact across emails, documents, and online writing.",
+    "tags": ["editing", "grammar", "tone"],
+    "url": "https://www.grammarly.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "writesonic",
+    "name": "Writesonic",
+    "category": "writer",
+    "description": "Create SEO articles, marketing copy, and brand content with AI-powered writing workflows.",
+    "tags": ["seo", "marketing-copy", "articles"],
+    "url": "https://writesonic.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "tabnine",
+    "name": "Tabnine",
+    "category": "code",
+    "description": "AI coding assistant with completions and chat that can run with privacy-focused deployment options.",
+    "tags": ["autocomplete", "ide-extension", "privacy"],
+    "url": "https://www.tabnine.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "replit-agent",
+    "name": "Replit Agent",
+    "category": "code",
+    "description": "Describe an app in plain language and get help building, debugging, and deploying it online.",
+    "tags": ["app-builder", "deployment", "no-code"],
+    "url": "https://replit.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "canva-magic-studio",
+    "name": "Canva Magic Studio",
+    "category": "design",
+    "description": "Create and transform presentations, graphics, images, and layouts with Canva's AI features.",
+    "tags": ["graphic-design", "presentations", "templates"],
+    "url": "https://www.canva.com/magic-studio",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "adobe-express",
+    "name": "Adobe Express",
+    "category": "design",
+    "description": "Quickly create social posts, flyers, videos, and branded content with generative AI assistance.",
+    "tags": ["graphic-design", "social", "templates"],
+    "url": "https://www.adobe.com/express",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "hubspot-ai",
+    "name": "HubSpot AI",
+    "category": "business",
+    "description": "AI features for CRM data, marketing content, sales outreach, customer support, and reporting.",
+    "tags": ["crm", "marketing", "sales"],
+    "url": "https://www.hubspot.com/artificial-intelligence",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "otter-ai",
+    "name": "Otter.ai",
+    "category": "business",
+    "description": "Transcribe meetings in real time, summarize conversations, and capture decisions and action items.",
+    "tags": ["meetings", "transcription", "notes"],
+    "url": "https://otter.ai",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "scite",
+    "name": "scite",
+    "category": "study",
+    "description": "Explore scientific literature and see how research papers support, contrast, or mention one another.",
+    "tags": ["research", "citations", "academic"],
+    "url": "https://scite.ai",
+    "pricing": "Free trial + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "quizlet-ai",
+    "name": "Quizlet AI",
+    "category": "study",
+    "description": "Turn notes and study materials into flashcards, practice tests, and personalized study activities.",
+    "tags": ["flashcards", "practice", "learning"],
+    "url": "https://quizlet.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "wix-ai-website-builder",
+    "name": "Wix AI Website Builder",
+    "category": "website-builder",
+    "description": "Generate a customized website through a conversation, then refine its layout, copy, and design.",
+    "tags": ["websites", "no-code", "small-business"],
+    "url": "https://www.wix.com/ai-website-builder",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "10web",
+    "name": "10Web",
+    "category": "website-builder",
+    "description": "Build WordPress websites with AI-generated layouts, content, and hosting tools for rapid launch.",
+    "tags": ["wordpress", "hosting", "no-code"],
+    "url": "https://10web.io",
+    "pricing": "Paid plans only",
+    "featured": false
+  },
+  {
+    "slug": "mistral-le-chat",
+    "name": "Le Chat",
+    "category": "chat",
+    "description": "Mistral's conversational assistant for research, writing, coding, and document analysis.",
+    "tags": ["assistant", "research", "coding"],
+    "url": "https://chat.mistral.ai",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "meta-ai",
+    "name": "Meta AI",
+    "category": "chat",
+    "description": "General-purpose assistant for questions, creative ideas, image generation, and everyday planning.",
+    "tags": ["assistant", "image-generation", "social"],
+    "url": "https://www.meta.ai",
+    "pricing": "Free",
+    "featured": false
+  },
+  {
+    "slug": "poe",
+    "name": "Poe",
+    "category": "chat",
+    "description": "One place to chat with a wide range of AI models and community-created assistants.",
+    "tags": ["multi-model", "assistants", "community"],
+    "url": "https://poe.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "character-ai",
+    "name": "Character.AI",
+    "category": "chat",
+    "description": "Chat with entertaining user-created characters and build custom personalities for conversation.",
+    "tags": ["roleplay", "characters", "conversation"],
+    "url": "https://character.ai",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "youcom",
+    "name": "You.com",
+    "category": "chat",
+    "description": "AI search and chat platform for research, writing, and task-focused assistant workflows.",
+    "tags": ["search", "research", "agents"],
+    "url": "https://you.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "duckduckgo-ai-chat",
+    "name": "DuckDuckGo AI Chat",
+    "category": "chat",
+    "description": "Private AI chat experience with access to multiple models without saving conversations.",
+    "tags": ["privacy", "multi-model", "assistant"],
+    "url": "https://duckduckgo.com/aichat",
+    "pricing": "Free",
+    "featured": false
+  },
+  {
+    "slug": "dall-e",
+    "name": "DALL-E",
+    "category": "image",
+    "description": "Generate detailed images from natural-language prompts with OpenAI's image model.",
+    "tags": ["text-to-image", "creative", "openai"],
+    "url": "https://openai.com/index/dall-e-3",
+    "pricing": "Paid plans or credits",
+    "featured": false
+  },
+  {
+    "slug": "stable-diffusion",
+    "name": "Stable Diffusion",
+    "category": "image",
+    "description": "Flexible open image generation ecosystem with models, fine-tuning, and local deployment options.",
+    "tags": ["text-to-image", "open-source", "local"],
+    "url": "https://stability.ai/stable-image",
+    "pricing": "Free and paid options",
+    "featured": false
+  },
+  {
+    "slug": "playground-ai",
+    "name": "Playground AI",
+    "category": "image",
+    "description": "Create and edit images with generative tools for social graphics, art, and product concepts.",
+    "tags": ["image-editing", "text-to-image", "design"],
+    "url": "https://playground.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "krea-ai",
+    "name": "Krea AI",
+    "category": "image",
+    "description": "Real-time image generation and enhancement tools for visual exploration and creative direction.",
+    "tags": ["real-time", "image-enhancement", "creative"],
+    "url": "https://www.krea.ai",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "flux",
+    "name": "FLUX",
+    "category": "image",
+    "description": "High-quality text-to-image models focused on prompt following, composition, and typography.",
+    "tags": ["text-to-image", "open-model", "typography"],
+    "url": "https://blackforestlabs.ai",
+    "pricing": "Free and paid options",
+    "featured": false
+  },
+  {
+    "slug": "pixlr-ai",
+    "name": "Pixlr AI",
+    "category": "image",
+    "description": "Browser-based image editor with AI generation, background removal, and quick creative effects.",
+    "tags": ["image-editing", "background-removal", "browser"],
+    "url": "https://pixlr.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "sora",
+    "name": "Sora",
+    "category": "video",
+    "description": "Generate imaginative video scenes from text prompts with detailed motion and visual coherence.",
+    "tags": ["text-to-video", "generative-video", "openai"],
+    "url": "https://sora.com",
+    "pricing": "Paid plans",
+    "featured": false
+  },
+  {
+    "slug": "kling-ai",
+    "name": "Kling AI",
+    "category": "video",
+    "description": "Create realistic video clips from text or images with camera motion and subject consistency.",
+    "tags": ["text-to-video", "image-to-video", "realistic"],
+    "url": "https://klingai.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "synthesia",
+    "name": "Synthesia",
+    "category": "video",
+    "description": "Produce business videos with AI presenters, multilingual voiceovers, and reusable templates.",
+    "tags": ["avatars", "training", "presentations"],
+    "url": "https://www.synthesia.io",
+    "pricing": "Paid plans only",
+    "featured": false
+  },
+  {
+    "slug": "invideo-ai",
+    "name": "InVideo AI",
+    "category": "video",
+    "description": "Turn prompts or scripts into complete videos with stock media, voiceover, and editing controls.",
+    "tags": ["script-to-video", "editing", "social"],
+    "url": "https://invideo.io/ai",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "capcut-ai",
+    "name": "CapCut AI",
+    "category": "video",
+    "description": "Mobile and web video editor with AI captions, effects, background removal, and generation features.",
+    "tags": ["video-editing", "captions", "social"],
+    "url": "https://www.capcut.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "opus-clip",
+    "name": "OpusClip",
+    "category": "video",
+    "description": "Find compelling moments in long videos and turn them into short clips for social platforms.",
+    "tags": ["short-form", "repurposing", "social"],
+    "url": "https://www.opus.pro",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "play-ht",
+    "name": "PlayHT",
+    "category": "voice",
+    "description": "Generate natural-sounding speech and deploy expressive voices for apps, videos, and agents.",
+    "tags": ["text-to-speech", "voice-cloning", "api"],
+    "url": "https://play.ht",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "assemblyai",
+    "name": "AssemblyAI",
+    "category": "voice",
+    "description": "Developer APIs for speech recognition, transcription, speaker labels, and audio intelligence.",
+    "tags": ["transcription", "api", "developers"],
+    "url": "https://www.assemblyai.com",
+    "pricing": "Pay as you go",
+    "featured": false
+  },
+  {
+    "slug": "speechify",
+    "name": "Speechify",
+    "category": "voice",
+    "description": "Listen to documents and web pages with natural AI voices across desktop and mobile devices.",
+    "tags": ["text-to-speech", "accessibility", "reading"],
+    "url": "https://speechify.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "wellsaid-labs",
+    "name": "WellSaid Labs",
+    "category": "voice",
+    "description": "Create polished voiceovers for learning, product demos, and branded content with AI voices.",
+    "tags": ["text-to-speech", "voiceover", "training"],
+    "url": "https://wellsaidlabs.com",
+    "pricing": "Paid plans only",
+    "featured": false
+  },
+  {
+    "slug": "assemblyai-le-meme",
+    "name": "Resemble AI",
+    "category": "voice",
+    "description": "Build custom voices and speech experiences with cloning, localization, and real-time APIs.",
+    "tags": ["voice-cloning", "localization", "api"],
+    "url": "https://www.resemble.ai",
+    "pricing": "Free trial + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "cleanvoice",
+    "name": "Cleanvoice",
+    "category": "voice",
+    "description": "Automatically remove filler words, mouth sounds, and long pauses from recorded audio.",
+    "tags": ["audio-cleanup", "podcasts", "editing"],
+    "url": "https://cleanvoice.ai",
+    "pricing": "Paid credits",
+    "featured": false
+  },
+  {
+    "slug": "boomy",
+    "name": "Boomy",
+    "category": "music",
+    "description": "Create original songs quickly and customize them for personal projects or content creation.",
+    "tags": ["text-to-music", "songs", "creator"],
+    "url": "https://boomy.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "soundful",
+    "name": "Soundful",
+    "category": "music",
+    "description": "Generate royalty-free tracks by genre, mood, and duration for videos and digital content.",
+    "tags": ["royalty-free", "instrumentals", "creator"],
+    "url": "https://soundful.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "mubert",
+    "name": "Mubert",
+    "category": "music",
+    "description": "Generate adaptive royalty-free music for videos, apps, streams, and commercial projects.",
+    "tags": ["royalty-free", "background-music", "api"],
+    "url": "https://mubert.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "landr",
+    "name": "LANDR",
+    "category": "music",
+    "description": "Online music production platform with AI mastering, samples, collaboration, and distribution tools.",
+    "tags": ["mastering", "production", "distribution"],
+    "url": "https://www.landr.com",
+    "pricing": "Free trial + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "boomy-studio",
+    "name": "Moises",
+    "category": "music",
+    "description": "Practice and remix songs with AI stem separation, chord detection, and tempo controls.",
+    "tags": ["stem-separation", "practice", "remixing"],
+    "url": "https://moises.ai",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "riffusion",
+    "name": "Riffusion",
+    "category": "music",
+    "description": "Experiment with generative music and create songs from text prompts and musical ideas.",
+    "tags": ["text-to-music", "experimentation", "songs"],
+    "url": "https://www.riffusion.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "quillbot",
+    "name": "QuillBot",
+    "category": "writer",
+    "description": "Paraphrase, summarize, translate, and improve writing while preserving the intended meaning.",
+    "tags": ["paraphrasing", "summarization", "editing"],
+    "url": "https://quillbot.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "rytr",
+    "name": "Rytr",
+    "category": "writer",
+    "description": "Draft emails, ads, social posts, and blog content with templates and selectable tones.",
+    "tags": ["copywriting", "templates", "marketing"],
+    "url": "https://rytr.me",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "sudowrite",
+    "name": "Sudowrite",
+    "category": "writer",
+    "description": "Creative writing partner for brainstorming scenes, developing characters, and revising fiction.",
+    "tags": ["creative-writing", "fiction", "brainstorming"],
+    "url": "https://www.sudowrite.com",
+    "pricing": "Paid plans only",
+    "featured": false
+  },
+  {
+    "slug": "anyword",
+    "name": "Anyword",
+    "category": "writer",
+    "description": "Generate and optimize marketing copy with performance-focused templates and brand controls.",
+    "tags": ["marketing-copy", "optimization", "brand-voice"],
+    "url": "https://anyword.com",
+    "pricing": "Paid plans only",
+    "featured": false
+  },
+  {
+    "slug": "hemingway-editor",
+    "name": "Hemingway Editor",
+    "category": "writer",
+    "description": "Make writing clearer and more readable with suggestions for structure, tone, and complexity.",
+    "tags": ["editing", "readability", "clarity"],
+    "url": "https://hemingwayapp.com",
+    "pricing": "Free and paid options",
+    "featured": false
+  },
+  {
+    "slug": "wordtune",
+    "name": "Wordtune",
+    "category": "writer",
+    "description": "Rewrite sentences, adjust tone, and summarize text to communicate ideas more effectively.",
+    "tags": ["rewriting", "summarization", "tone"],
+    "url": "https://www.wordtune.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "amazon-q-developer",
+    "name": "Amazon Q Developer",
+    "category": "code",
+    "description": "AI coding assistant for building, testing, debugging, and working with AWS applications.",
+    "tags": ["autocomplete", "aws", "debugging"],
+    "url": "https://aws.amazon.com/q/developer",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "codeium",
+    "name": "Windsurf",
+    "category": "code",
+    "description": "AI-first development environment for code generation, context-aware edits, and agentic workflows.",
+    "tags": ["editor", "agent", "autocomplete"],
+    "url": "https://windsurf.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "sourcegraph-cody",
+    "name": "Sourcegraph Cody",
+    "category": "code",
+    "description": "Code assistant that understands repositories and helps with navigation, explanations, and changes.",
+    "tags": ["codebase-search", "assistant", "refactoring"],
+    "url": "https://sourcegraph.com/cody",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "amazon-codewhisperer",
+    "name": "Amazon CodeWhisperer",
+    "category": "code",
+    "description": "Generates code suggestions and helps identify security issues inside supported development environments.",
+    "tags": ["autocomplete", "security", "aws"],
+    "url": "https://aws.amazon.com/codewhisperer",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "phind",
+    "name": "Phind",
+    "category": "code",
+    "description": "Developer-focused search and assistant for technical explanations, code, and debugging guidance.",
+    "tags": ["developer-search", "debugging", "assistant"],
+    "url": "https://www.phind.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "blackbox-ai",
+    "name": "BLACKBOX AI",
+    "category": "code",
+    "description": "AI coding tools for generating, explaining, transforming, and searching code across projects.",
+    "tags": ["code-generation", "search", "developer"],
+    "url": "https://www.blackbox.ai",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "figma-ai",
+    "name": "Figma AI",
+    "category": "design",
+    "description": "Accelerate interface design with AI-assisted layouts, content, organization, and prototyping workflows.",
+    "tags": ["ui-design", "prototyping", "collaboration"],
+    "url": "https://www.figma.com/ai",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "looka",
+    "name": "Looka",
+    "category": "design",
+    "description": "Generate logo concepts and cohesive brand kits for new businesses and creative projects.",
+    "tags": ["logos", "branding", "identity"],
+    "url": "https://looka.com",
+    "pricing": "Free to create + paid downloads",
+    "featured": false
+  },
+  {
+    "slug": "remove-bg",
+    "name": "Remove.bg",
+    "category": "design",
+    "description": "Automatically remove image backgrounds for product photos, portraits, and marketing assets.",
+    "tags": ["background-removal", "photo-editing", "product"],
+    "url": "https://www.remove.bg",
+    "pricing": "Free tier + paid credits",
+    "featured": false
+  },
+  {
+    "slug": "clipdrop",
+    "name": "Clipdrop",
+    "category": "design",
+    "description": "Creative image toolkit for cleanup, relighting, background removal, and generative editing.",
+    "tags": ["image-editing", "cleanup", "creative"],
+    "url": "https://clipdrop.co",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "visme-ai",
+    "name": "Visme AI",
+    "category": "design",
+    "description": "Create presentations, infographics, and branded visual content from prompts and templates.",
+    "tags": ["presentations", "infographics", "templates"],
+    "url": "https://www.visme.co/ai",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "microsoft-designer",
+    "name": "Microsoft Designer",
+    "category": "design",
+    "description": "Generate social graphics, invitations, and visual layouts from descriptions and reference images.",
+    "tags": ["graphic-design", "templates", "microsoft"],
+    "url": "https://designer.microsoft.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "salesforce-einstein",
+    "name": "Salesforce Einstein",
+    "category": "business",
+    "description": "Embedded AI for CRM insights, sales predictions, customer service, and marketing workflows.",
+    "tags": ["crm", "sales", "analytics"],
+    "url": "https://www.salesforce.com/einstein",
+    "pricing": "Enterprise plans",
+    "featured": false
+  },
+  {
+    "slug": "jasper-brand-voice",
+    "name": "Jasper Brand Voice",
+    "category": "business",
+    "description": "Create on-brand marketing content with reusable style, knowledge, and campaign controls.",
+    "tags": ["marketing", "brand-voice", "campaigns"],
+    "url": "https://www.jasper.ai",
+    "pricing": "Paid plans only",
+    "featured": false
+  },
+  {
+    "slug": "clickup-ai",
+    "name": "ClickUp Brain",
+    "category": "business",
+    "description": "Workplace assistant for summarizing tasks, drafting updates, answering questions, and managing projects.",
+    "tags": ["productivity", "projects", "summaries"],
+    "url": "https://clickup.com/ai",
+    "pricing": "Add-on to paid plans",
+    "featured": false
+  },
+  {
+    "slug": "grammarly-business",
+    "name": "Grammarly Business",
+    "category": "business",
+    "description": "Team writing assistant with shared style guides, generated drafts, and communication insights.",
+    "tags": ["writing", "teams", "style-guide"],
+    "url": "https://www.grammarly.com/business",
+    "pricing": "Paid plans only",
+    "featured": false
+  },
+  {
+    "slug": "zapier-central",
+    "name": "Zapier AI",
+    "category": "business",
+    "description": "Connect business apps and automate repetitive workflows with AI-assisted setup and actions.",
+    "tags": ["automation", "workflows", "integrations"],
+    "url": "https://zapier.com/ai",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "tome",
+    "name": "Tome",
+    "category": "business",
+    "description": "Generate polished presentations and narrative documents from a short prompt or outline.",
+    "tags": ["presentations", "storytelling", "documents"],
+    "url": "https://tome.app",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "wolfram-alpha",
+    "name": "WolframAlpha",
+    "category": "study",
+    "description": "Compute answers and explore step-by-step explanations across mathematics, science, and data.",
+    "tags": ["math", "science", "computation"],
+    "url": "https://www.wolframalpha.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "khanmigo",
+    "name": "Khanmigo",
+    "category": "study",
+    "description": "Tutoring and teaching assistant from Khan Academy designed to guide learners through problems.",
+    "tags": ["tutoring", "education", "guided-learning"],
+    "url": "https://www.khanmigo.ai",
+    "pricing": "Paid plans and school access",
+    "featured": false
+  },
+  {
+    "slug": "notebooklm",
+    "name": "NotebookLM",
+    "category": "study",
+    "description": "Ask questions about your sources and generate summaries, study guides, and audio overviews.",
+    "tags": ["research", "documents", "summaries"],
+    "url": "https://notebooklm.google.com",
+    "pricing": "Free",
+    "featured": false
+  },
+  {
+    "slug": "photomath",
+    "name": "Photomath",
+    "category": "study",
+    "description": "Scan math problems and see guided explanations for solving them step by step.",
+    "tags": ["math", "homework-help", "mobile"],
+    "url": "https://photomath.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "wolfram-tutor",
+    "name": "Studyable",
+    "category": "study",
+    "description": "AI study companion for asking questions, reviewing concepts, and building personalized practice.",
+    "tags": ["tutoring", "practice", "learning"],
+    "url": "https://www.studyable.app",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "knowt",
+    "name": "Knowt",
+    "category": "study",
+    "description": "Turn notes and lectures into flashcards, practice tests, and concise study materials.",
+    "tags": ["flashcards", "notes", "practice"],
+    "url": "https://knowt.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "jimdo-ai",
+    "name": "Jimdo AI Website Builder",
+    "category": "website-builder",
+    "description": "Create a small-business website with AI-generated content, layouts, and guided setup.",
+    "tags": ["small-business", "websites", "no-code"],
+    "url": "https://www.jimdo.com/website",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "unicorn-platform",
+    "name": "Unicorn Platform",
+    "category": "website-builder",
+    "description": "Launch startup landing pages with AI-assisted copy, sections, forms, and responsive layouts.",
+    "tags": ["landing-pages", "startups", "no-code"],
+    "url": "https://unicornplatform.page",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "webflow-ai",
+    "name": "Webflow AI",
+    "category": "website-builder",
+    "description": "Design and build responsive websites with AI-assisted copy, sections, and visual development tools.",
+    "tags": ["web-design", "responsive", "visual-builder"],
+    "url": "https://webflow.com/ai",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "hostinger-ai",
+    "name": "Hostinger AI Website Builder",
+    "category": "website-builder",
+    "description": "Generate a complete website with AI-written content, layouts, and hosting tools for quick launch.",
+    "tags": ["websites", "hosting", "no-code"],
+    "url": "https://www.hostinger.com/website-builder",
+    "pricing": "Paid plans only",
+    "featured": false
+  },
+  {
+    "slug": "10web-builder",
+    "name": "10Web AI Builder",
+    "category": "website-builder",
+    "description": "Create and regenerate WordPress websites with AI while keeping control of content and layout.",
+    "tags": ["wordpress", "websites", "no-code"],
+    "url": "https://10web.io/ai-website-builder",
+    "pricing": "Paid plans only",
+    "featured": false
+  },
+  {
+    "slug": "dorik-ai",
+    "name": "Dorik AI",
+    "category": "website-builder",
+    "description": "Build responsive websites from prompts with AI-generated pages, copy, and visual sections.",
+    "tags": ["websites", "landing-pages", "no-code"],
+    "url": "https://dorik.com/ai",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "google-search",
+    "name": "Google Search",
+    "category": "search",
+    "description": "Search the web for answers, sources, images, news, and useful information.",
+    "tags": ["web-search", "research"], "url": "https://www.google.com", "pricing": "Free", "featured": false
+  },
+  {
+    "slug": "bing-copilot-search",
+    "name": "Bing Copilot Search",
+    "category": "search",
+    "description": "Search the web with AI summaries, follow-up questions, and cited sources.",
+    "tags": ["web-search", "citations"], "url": "https://www.bing.com", "pricing": "Free", "featured": false
+  },
+  {
+    "slug": "brave-search",
+    "name": "Brave Search",
+    "category": "search",
+    "description": "Independent privacy-focused search engine with AI-powered answer summaries.",
+    "tags": ["privacy", "web-search"], "url": "https://search.brave.com", "pricing": "Free", "featured": false
+  },
+  {
+    "slug": "you-search",
+    "name": "You.com Search",
+    "category": "search",
+    "description": "AI search engine for research, writing, and current information discovery.",
+    "tags": ["ai-search", "research"], "url": "https://you.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "phind-search",
+    "name": "Phind Search",
+    "category": "search",
+    "description": "Developer-focused search engine for technical questions and coding solutions.",
+    "tags": ["developer-search", "coding"], "url": "https://www.phind.com", "pricing": "Free", "featured": false
+  },
+  {
+    "slug": "andisearch",
+    "name": "Andi Search",
+    "category": "search",
+    "description": "Ad-free AI search that gives direct answers while protecting your privacy.",
+    "tags": ["privacy", "ai-search"], "url": "https://andisearch.com", "pricing": "Free", "featured": false
+  },
+  {
+    "slug": "komo-ai",
+    "name": "Komo AI",
+    "category": "search",
+    "description": "Fast AI search for exploring topics, brainstorming, and finding sources.",
+    "tags": ["ai-search", "research"], "url": "https://komo.ai", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "metaphor",
+    "name": "Exa",
+    "category": "search",
+    "description": "Neural search API for finding high-quality web pages and research sources.",
+    "tags": ["search-api", "developers"], "url": "https://exa.ai", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "kagi",
+    "name": "Kagi",
+    "category": "search",
+    "description": "Premium ad-free search with AI features, lenses, and personalized results.",
+    "tags": ["privacy", "web-search"], "url": "https://kagi.com", "pricing": "Paid plans only", "featured": false
+  },
+  {
+    "slug": "tavily",
+    "name": "Tavily",
+    "category": "search",
+    "description": "Search API built for AI agents, research workflows, and grounded answers.",
+    "tags": ["search-api", "agents"], "url": "https://tavily.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "custom-gpt",
+    "name": "Custom GPTs",
+    "category": "my-ai",
+    "description": "Build personalized ChatGPT assistants with instructions, files, and custom capabilities.",
+    "tags": ["custom-assistant", "agents"], "url": "https://chatgpt.com/gpts", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "chatgpt-tasks",
+    "name": "ChatGPT Tasks",
+    "category": "my-ai",
+    "description": "Set up personalized recurring prompts and reminders with an AI assistant.",
+    "tags": ["automation", "assistant"], "url": "https://chatgpt.com", "pricing": "Paid plans", "featured": false
+  },
+  {
+    "slug": "claude-projects",
+    "name": "Claude Projects",
+    "category": "my-ai",
+    "description": "Create focused AI workspaces with project instructions and a private knowledge base.",
+    "tags": ["custom-assistant", "knowledge-base"], "url": "https://claude.ai", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "gemini-gems",
+    "name": "Gemini Gems",
+    "category": "my-ai",
+    "description": "Create custom Gemini experts for specific roles, topics, and repeatable workflows.",
+    "tags": ["custom-assistant", "google"], "url": "https://gemini.google.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "character-ai-tools",
+    "name": "Character.AI",
+    "category": "my-ai",
+    "description": "Create and chat with custom AI characters for conversation, learning, and roleplay.",
+    "tags": ["characters", "conversation"], "url": "https://character.ai", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "agentgpt",
+    "name": "AgentGPT",
+    "category": "my-ai",
+    "description": "Configure autonomous AI agents to pursue goals and complete multi-step tasks.",
+    "tags": ["agents", "automation"], "url": "https://agentgpt.reworkd.ai", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "poe-bots",
+    "name": "Poe Bots",
+    "category": "my-ai",
+    "description": "Create custom bots with prompts and share them with a community of AI users.",
+    "tags": ["custom-assistant", "community"], "url": "https://poe.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "replika",
+    "name": "Replika",
+    "category": "my-ai",
+    "description": "Personal AI companion for conversation, reflection, and everyday support.",
+    "tags": ["companion", "conversation"], "url": "https://replika.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "n8n-ai-agents",
+    "name": "n8n AI Agents",
+    "category": "my-ai",
+    "description": "Build custom AI agents connected to apps, APIs, data, and automated workflows.",
+    "tags": ["agents", "automation"], "url": "https://n8n.io", "pricing": "Free self-hosted + paid plans", "featured": false
+  },
+  {
+    "slug": "botpress",
+    "name": "Botpress",
+    "category": "my-ai",
+    "description": "Build, deploy, and manage custom AI agents for websites and business workflows.",
+    "tags": ["agents", "chatbots"], "url": "https://botpress.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "otter-transcription",
+    "name": "Otter.ai",
+    "category": "transcription",
+    "description": "Transcribe meetings in real time and generate summaries and action items.",
+    "tags": ["meetings", "transcription"], "url": "https://otter.ai", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "rev",
+    "name": "Rev",
+    "category": "transcription",
+    "description": "Professional human and AI transcription, captions, subtitles, and translation services.",
+    "tags": ["transcription", "captions"], "url": "https://www.rev.com", "pricing": "Paid per minute", "featured": false
+  },
+  {
+    "slug": "trint",
+    "name": "Trint",
+    "category": "transcription",
+    "description": "Convert audio and video into editable text with automated transcription and collaboration.",
+    "tags": ["transcription", "collaboration"], "url": "https://trint.com", "pricing": "Paid plans only", "featured": false
+  },
+  {
+    "slug": "sonix",
+    "name": "Sonix",
+    "category": "transcription",
+    "description": "Fast automated transcription and subtitles for audio and video in many languages.",
+    "tags": ["transcription", "subtitles"], "url": "https://sonix.ai", "pricing": "Free trial + paid plans", "featured": false
+  },
+  {
+    "slug": "temi",
+    "name": "Temi",
+    "category": "transcription",
+    "description": "Affordable automated transcription with speaker labels and editable text output.",
+    "tags": ["transcription", "audio"], "url": "https://www.temi.com", "pricing": "Paid per minute", "featured": false
+  },
+  {
+    "slug": "happy-scribe",
+    "name": "Happy Scribe",
+    "category": "transcription",
+    "description": "Transcribe and subtitle media with AI or professional language services.",
+    "tags": ["transcription", "subtitles"], "url": "https://www.happyscribe.com", "pricing": "Paid per minute", "featured": false
+  },
+  {
+    "slug": "descript-transcription",
+    "name": "Descript Transcription",
+    "category": "transcription",
+    "description": "Turn recordings into editable text and edit audio or video directly from the transcript.",
+    "tags": ["transcription", "editing"], "url": "https://www.descript.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "fireflies-transcription",
+    "name": "Fireflies Transcription",
+    "category": "transcription",
+    "description": "Record, transcribe, search, and summarize conversations across meeting platforms.",
+    "tags": ["meetings", "transcription"], "url": "https://fireflies.ai", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "speechmatics",
+    "name": "Speechmatics",
+    "category": "transcription",
+    "description": "Enterprise speech-to-text API with multilingual transcription and custom vocabulary.",
+    "tags": ["transcription", "api"], "url": "https://www.speechmatics.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "deepgram",
+    "name": "Deepgram",
+    "category": "transcription",
+    "description": "Developer speech recognition APIs for real-time and recorded audio transcription.",
+    "tags": ["transcription", "api"], "url": "https://deepgram.com", "pricing": "Free tier + usage plans", "featured": false
+  },
+  {
+    "slug": "deepl",
+    "name": "DeepL",
+    "category": "translate",
+    "description": "High-quality AI translation for text, documents, and professional communications.",
+    "tags": ["translation", "documents"], "url": "https://www.deepl.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "google-translate",
+    "name": "Google Translate",
+    "category": "translate",
+    "description": "Translate text, speech, images, and websites across a wide range of languages.",
+    "tags": ["translation", "languages"], "url": "https://translate.google.com", "pricing": "Free", "featured": false
+  },
+  {
+    "slug": "microsoft-translator",
+    "name": "Microsoft Translator",
+    "category": "translate",
+    "description": "Translate text and conversations with Microsoft language services and APIs.",
+    "tags": ["translation", "api"], "url": "https://www.microsoft.com/translator", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "papago",
+    "name": "Papago",
+    "category": "translate",
+    "description": "Translate text, speech, images, and conversations with strong Asian language support.",
+    "tags": ["translation", "languages"], "url": "https://papago.naver.com", "pricing": "Free", "featured": false
+  },
+  {
+    "slug": "lingvanex",
+    "name": "Lingvanex",
+    "category": "translate",
+    "description": "Translate text, documents, websites, and speech for personal and business use.",
+    "tags": ["translation", "documents"], "url": "https://lingvanex.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "reverso",
+    "name": "Reverso",
+    "category": "translate",
+    "description": "Translate phrases with contextual examples, pronunciation, and language learning tools.",
+    "tags": ["translation", "language-learning"], "url": "https://www.reverso.net", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "wordly",
+    "name": "Wordly",
+    "category": "translate",
+    "description": "Provide real-time AI speech translation for meetings, events, and webinars.",
+    "tags": ["live-translation", "meetings"], "url": "https://www.wordly.ai", "pricing": "Paid plans only", "featured": false
+  },
+  {
+    "slug": "amazon-translate",
+    "name": "Amazon Translate",
+    "category": "translate",
+    "description": "Neural machine translation API for applications, content, and multilingual workflows.",
+    "tags": ["translation", "api"], "url": "https://aws.amazon.com/translate", "pricing": "Usage based", "featured": false
+  },
+  {
+    "slug": "translate-video",
+    "name": "HeyGen Translate",
+    "category": "translate",
+    "description": "Translate and dub videos into multiple languages with synchronized voice and lip movement.",
+    "tags": ["video-translation", "dubbing"], "url": "https://www.heygen.com/translate", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "matecat",
+    "name": "Matecat",
+    "category": "translate",
+    "description": "Computer-assisted translation workspace for documents, teams, and professional translators.",
+    "tags": ["translation", "localization"], "url": "https://www.matecat.com", "pricing": "Free", "featured": false
+  },
+  {
+    "slug": "quillbot-text",
+    "name": "QuillBot",
+    "category": "text-tools",
+    "description": "Paraphrase, summarize, translate, and improve text while preserving its meaning.",
+    "tags": ["paraphrasing", "summarization"], "url": "https://quillbot.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "wordtune-text",
+    "name": "Wordtune",
+    "category": "text-tools",
+    "description": "Rewrite sentences, adjust tone, and summarize text for clearer communication.",
+    "tags": ["rewriting", "tone"], "url": "https://www.wordtune.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "grammarly-text",
+    "name": "Grammarly",
+    "category": "text-tools",
+    "description": "Improve grammar, clarity, tone, and impact across everyday writing.",
+    "tags": ["grammar", "editing"], "url": "https://www.grammarly.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "paraphraser",
+    "name": "Paraphraser.io",
+    "category": "text-tools",
+    "description": "Rewrite paragraphs and articles with adjustable modes for clarity and originality.",
+    "tags": ["paraphrasing", "rewriting"], "url": "https://www.paraphraser.io", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "originality-ai",
+    "name": "Originality.ai",
+    "category": "text-tools",
+    "description": "Check text for AI generation, plagiarism, readability, and factual quality.",
+    "tags": ["ai-detection", "plagiarism"], "url": "https://originality.ai", "pricing": "Paid plans only", "featured": false
+  },
+  {
+    "slug": "hemingway-text",
+    "name": "Hemingway Editor",
+    "category": "text-tools",
+    "description": "Make writing clearer and easier to read with practical editing suggestions.",
+    "tags": ["readability", "editing"], "url": "https://hemingwayapp.com", "pricing": "Free and paid options", "featured": false
+  },
+  {
+    "slug": "copychecker",
+    "name": "CopyChecker",
+    "category": "text-tools",
+    "description": "Check writing for plagiarism and improve originality before publishing.",
+    "tags": ["plagiarism", "writing"], "url": "https://copychecker.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "writer-text-tools",
+    "name": "Writer",
+    "category": "text-tools",
+    "description": "Enterprise writing assistant for style, terminology, and consistent brand language.",
+    "tags": ["editing", "brand-voice"], "url": "https://writer.com", "pricing": "Paid plans only", "featured": false
+  },
+  {
+    "slug": "summarizebot",
+    "name": "SummarizeBot",
+    "category": "text-tools",
+    "description": "Summarize articles, documents, and messages into concise key points.",
+    "tags": ["summarization", "documents"], "url": "https://summarizebot.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "textfx",
+    "name": "TextFX",
+    "category": "text-tools",
+    "description": "Creative text tools for brainstorming, wordplay, metaphors, and writing ideas.",
+    "tags": ["creative-writing", "brainstorming"], "url": "https://textfx.withgoogle.com", "pricing": "Free", "featured": false
+  },
+  {
+    "slug": "pdfescape-tools",
+    "name": "PDFescape",
+    "category": "pdf-tools",
+    "description": "Edit, annotate, fill, and secure PDF files directly in a web browser.",
+    "tags": ["pdf-editor", "forms"], "url": "https://www.pdfescape.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "foxit-pdf",
+    "name": "Foxit PDF",
+    "category": "pdf-tools",
+    "description": "Create, edit, convert, sign, and collaborate on PDF documents.",
+    "tags": ["pdf-editor", "signing"], "url": "https://www.foxit.com/pdf-editor", "pricing": "Free trial + paid plans", "featured": false
+  },
+  {
+    "slug": "pdfcandy",
+    "name": "PDF Candy",
+    "category": "pdf-tools",
+    "description": "Online PDF tools for conversion, editing, compression, OCR, and page management.",
+    "tags": ["pdf-converter", "ocr"], "url": "https://pdfcandy.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "docfly",
+    "name": "DocFly",
+    "category": "pdf-tools",
+    "description": "Edit, convert, fill, sign, and share PDF documents online.",
+    "tags": ["pdf-editor", "documents"], "url": "https://www.docfly.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "pdf2go",
+    "name": "PDF2Go",
+    "category": "pdf-tools",
+    "description": "Convert, compress, repair, edit, and protect PDF files from your browser.",
+    "tags": ["pdf-converter", "pdf-editor"], "url": "https://www.pdf2go.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "ocr-space",
+    "name": "OCR.space",
+    "category": "pdf-tools",
+    "description": "Extract editable text from scanned PDFs and images with online OCR.",
+    "tags": ["ocr", "data-extraction"], "url": "https://ocr.space", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "pdfsam",
+    "name": "PDFsam",
+    "category": "pdf-tools",
+    "description": "Open-source desktop tools for splitting, merging, rotating, and extracting PDF pages.",
+    "tags": ["pdf-editor", "open-source"], "url": "https://pdfsam.org", "pricing": "Free and paid options", "featured": false
+  },
+  {
+    "slug": "kami-pdf",
+    "name": "Kami",
+    "category": "pdf-tools",
+    "description": "Annotate, share, and collaborate on PDFs and documents for learning and work.",
+    "tags": ["annotation", "education"], "url": "https://www.kamiapp.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "dochub",
+    "name": "DocHub",
+    "category": "pdf-tools",
+    "description": "Edit, sign, fill, and send PDF documents and online forms.",
+    "tags": ["pdf-editor", "e-signatures"], "url": "https://www.dochub.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "pdfbob",
+    "name": "PDF Bob",
+    "category": "pdf-tools",
+    "description": "Simple online PDF editor for annotations, page management, and conversion.",
+    "tags": ["pdf-editor", "documents"], "url": "https://pdfbob.com", "pricing": "Free", "featured": false
+  },
+  {
+    "slug": "quizlet-study-tools",
+    "name": "Quizlet",
+    "category": "study-tools",
+    "description": "Create flashcards, practice tests, and study activities from your materials.",
+    "tags": ["flashcards", "practice"], "url": "https://quizlet.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "knowt-study-tools",
+    "name": "Knowt",
+    "category": "study-tools",
+    "description": "Turn notes and lectures into flashcards, summaries, and practice tests.",
+    "tags": ["flashcards", "notes"], "url": "https://knowt.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "anki",
+    "name": "Anki",
+    "category": "study-tools",
+    "description": "Open flashcard platform using spaced repetition for long-term learning.",
+    "tags": ["flashcards", "spaced-repetition"], "url": "https://apps.ankiweb.net", "pricing": "Free", "featured": false
+  },
+  {
+    "slug": "brainscape",
+    "name": "Brainscape",
+    "category": "study-tools",
+    "description": "Study with adaptive digital flashcards and confidence-based repetition.",
+    "tags": ["flashcards", "learning"], "url": "https://www.brainscape.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "studysmarter",
+    "name": "StudySmarter",
+    "category": "study-tools",
+    "description": "Organize notes and learn with flashcards, study plans, and shared materials.",
+    "tags": ["notes", "flashcards"], "url": "https://www.studysmarter.co.uk", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "smodin",
+    "name": "Smodin",
+    "category": "study-tools",
+    "description": "AI writing, research, citation, and homework tools for students.",
+    "tags": ["research", "homework-help"], "url": "https://smodin.io", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "tutorai",
+    "name": "TutorAI",
+    "category": "study-tools",
+    "description": "Generate personalized learning paths and lessons on topics you choose.",
+    "tags": ["tutoring", "learning"], "url": "https://www.tutorai.me", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "learn-anything",
+    "name": "Learn Anything",
+    "category": "study-tools",
+    "description": "Explore visual knowledge maps and resources for learning new subjects.",
+    "tags": ["research", "learning"], "url": "https://learn-anything.xyz", "pricing": "Free", "featured": false
+  },
+  {
+    "slug": "coursehero",
+    "name": "Course Hero",
+    "category": "study-tools",
+    "description": "Find study resources, explanations, and tutoring support for courses.",
+    "tags": ["study-guides", "tutoring"], "url": "https://www.coursehero.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "studocu",
+    "name": "StuDocu",
+    "category": "study-tools",
+    "description": "Share and discover lecture notes, summaries, and study documents.",
+    "tags": ["notes", "study-guides"], "url": "https://www.studocu.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "vidiq",
+    "name": "vidIQ",
+    "category": "youtube-tools",
+    "description": "Grow a YouTube channel with keyword research, ideas, analytics, and optimization.",
+    "tags": ["youtube", "analytics"], "url": "https://vidiq.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "tubebuddy",
+    "name": "TubeBuddy",
+    "category": "youtube-tools",
+    "description": "YouTube channel management tools for SEO, thumbnails, testing, and growth.",
+    "tags": ["youtube", "seo"], "url": "https://www.tubebuddy.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "youtube-bert",
+    "name": "YouTube Summarizer",
+    "category": "youtube-tools",
+    "description": "Summarize long YouTube videos and extract key ideas from their transcripts.",
+    "tags": ["youtube", "summarization"], "url": "https://youtubesummarizer.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "opusclip-youtube",
+    "name": "OpusClip",
+    "category": "youtube-tools",
+    "description": "Turn long YouTube videos into engaging short clips with AI editing and captions.",
+    "tags": ["youtube", "short-form"], "url": "https://www.opus.pro", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "descript-youtube",
+    "name": "Descript for YouTube",
+    "category": "youtube-tools",
+    "description": "Edit YouTube videos through transcripts with captions, clips, and AI cleanup.",
+    "tags": ["youtube", "video-editing"], "url": "https://www.descript.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "invideo-youtube",
+    "name": "InVideo AI",
+    "category": "youtube-tools",
+    "description": "Create complete YouTube videos from prompts, scripts, stock media, and voiceovers.",
+    "tags": ["youtube", "script-to-video"], "url": "https://invideo.io/ai", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "pictory",
+    "name": "Pictory",
+    "category": "youtube-tools",
+    "description": "Create branded videos and clips from scripts, articles, and long-form recordings.",
+    "tags": ["youtube", "video-editing"], "url": "https://pictory.ai", "pricing": "Free trial + paid plans", "featured": false
+  },
+  {
+    "slug": "simplified-youtube",
+    "name": "Simplified",
+    "category": "youtube-tools",
+    "description": "Plan and create video content with AI writing, design, and social publishing tools.",
+    "tags": ["youtube", "content"], "url": "https://simplified.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "thumbnail-ai",
+    "name": "Thumbly",
+    "category": "youtube-tools",
+    "description": "Create and test attention-grabbing thumbnails for YouTube videos.",
+    "tags": ["youtube", "thumbnails"], "url": "https://thumbly.ai", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "morningfame",
+    "name": "Morningfame",
+    "category": "youtube-tools",
+    "description": "Research keywords and plan videos with data-driven YouTube growth guidance.",
+    "tags": ["youtube", "keywords"], "url": "https://morningfa.me", "pricing": "Paid plans only", "featured": false
+  },
+  {
+    "slug": "hubspot-business-tools",
+    "name": "HubSpot",
+    "category": "business-tools",
+    "description": "CRM, marketing, sales, service, and operations tools with embedded AI features.",
+    "tags": ["crm", "marketing"], "url": "https://www.hubspot.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "salesforce-business-tools",
+    "name": "Salesforce",
+    "category": "business-tools",
+    "description": "Enterprise CRM platform with AI for sales, service, marketing, and analytics.",
+    "tags": ["crm", "sales"], "url": "https://www.salesforce.com", "pricing": "Paid plans only", "featured": false
+  },
+  {
+    "slug": "notion-business-tools",
+    "name": "Notion",
+    "category": "business-tools",
+    "description": "Connected workspace for docs, wikis, projects, and AI-powered team knowledge.",
+    "tags": ["productivity", "docs"], "url": "https://www.notion.so", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "asana-intelligence",
+    "name": "Asana Intelligence",
+    "category": "business-tools",
+    "description": "AI features for project planning, status updates, goals, and work management.",
+    "tags": ["projects", "productivity"], "url": "https://asana.com/uses/ai", "pricing": "Paid plans only", "featured": false
+  },
+  {
+    "slug": "monday-ai",
+    "name": "monday AI",
+    "category": "business-tools",
+    "description": "Manage projects and workflows with AI-powered automation, summaries, and generation.",
+    "tags": ["projects", "automation"], "url": "https://monday.com/product/ai", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "clickup-business-tools",
+    "name": "ClickUp",
+    "category": "business-tools",
+    "description": "Project management and productivity workspace with an integrated AI assistant.",
+    "tags": ["projects", "productivity"], "url": "https://clickup.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "slack-ai",
+    "name": "Slack AI",
+    "category": "business-tools",
+    "description": "Search, summarize, and act on team conversations with AI inside Slack.",
+    "tags": ["team-chat", "summaries"], "url": "https://slack.com/intl/en-in/features/ai", "pricing": "Add-on to paid plans", "featured": false
+  },
+  {
+    "slug": "zapier-business-tools",
+    "name": "Zapier",
+    "category": "business-tools",
+    "description": "Automate business workflows across thousands of apps with AI-assisted setup.",
+    "tags": ["automation", "integrations"], "url": "https://zapier.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "intercom-fin",
+    "name": "Intercom Fin",
+    "category": "business-tools",
+    "description": "AI customer service agent that resolves support questions across business channels.",
+    "tags": ["customer-support", "agents"], "url": "https://www.intercom.com/fin", "pricing": "Paid plans only", "featured": false
+  },
+  {
+    "slug": "gorgias-ai",
+    "name": "Gorgias AI",
+    "category": "business-tools",
+    "description": "AI customer support and automation platform for ecommerce businesses.",
+    "tags": ["customer-support", "ecommerce"], "url": "https://gorgias.com", "pricing": "Paid plans only", "featured": false
+  },
+  {
+    "slug": "buffer-social-media",
+    "name": "Buffer",
+    "category": "social-media",
+    "description": "Plan, create, schedule, and analyze social media content across channels.",
+    "tags": ["scheduling", "social"], "url": "https://buffer.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "hootsuite-ai",
+    "name": "Hootsuite",
+    "category": "social-media",
+    "description": "Manage social publishing, listening, analytics, and AI-assisted content creation.",
+    "tags": ["scheduling", "analytics"], "url": "https://www.hootsuite.com", "pricing": "Free trial + paid plans", "featured": false
+  },
+  {
+    "slug": "predis-ai",
+    "name": "Predis.ai",
+    "category": "social-media",
+    "description": "Generate social posts, videos, captions, and branded content from simple prompts.",
+    "tags": ["social", "content-generation"], "url": "https://predis.ai", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "ocoya",
+    "name": "Ocoya",
+    "category": "social-media",
+    "description": "Create and schedule social content with AI copywriting, design, and analytics.",
+    "tags": ["social", "scheduling"], "url": "https://www.ocoya.com", "pricing": "Free trial + paid plans", "featured": false
+  },
+  {
+    "slug": "copy-ai-social",
+    "name": "Copy.ai Social",
+    "category": "social-media",
+    "description": "Generate social captions, campaign ideas, and repurposed marketing content.",
+    "tags": ["social", "copywriting"], "url": "https://www.copy.ai", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "canva-social-media",
+    "name": "Canva Social Media",
+    "category": "social-media",
+    "description": "Design social graphics, videos, and campaign assets with templates and AI tools.",
+    "tags": ["social", "graphic-design"], "url": "https://www.canva.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "later-social",
+    "name": "Later",
+    "category": "social-media",
+    "description": "Visual social planner for scheduling content, managing links, and tracking performance.",
+    "tags": ["scheduling", "social"], "url": "https://later.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "sprout-social",
+    "name": "Sprout Social",
+    "category": "social-media",
+    "description": "Social management platform for publishing, engagement, listening, and analytics.",
+    "tags": ["social", "analytics"], "url": "https://sproutsocial.com", "pricing": "Paid plans only", "featured": false
+  },
+  {
+    "slug": "lately-ai",
+    "name": "Lately AI",
+    "category": "social-media",
+    "description": "Turn long-form content into social posts and campaign variations automatically.",
+    "tags": ["social", "repurposing"], "url": "https://www.lately.ai", "pricing": "Paid plans only", "featured": false
+  },
+  {
+    "slug": "socialbee",
+    "name": "SocialBee",
+    "category": "social-media",
+    "description": "AI-assisted social content creation, scheduling, recycling, and performance tracking.",
+    "tags": ["social", "scheduling"], "url": "https://socialbee.com", "pricing": "Paid plans only", "featured": false
+  },
+  {
+    "slug": "myfitnesspal",
+    "name": "MyFitnessPal",
+    "category": "health-lifestyle",
+    "description": "Track nutrition, exercise, habits, and health goals with personalized guidance.",
+    "tags": ["nutrition", "fitness"], "url": "https://www.myfitnesspal.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "fitbod",
+    "name": "Fitbod",
+    "category": "health-lifestyle",
+    "description": "Generate personalized strength workouts based on goals, equipment, and recovery.",
+    "tags": ["fitness", "workouts"], "url": "https://fitbod.me", "pricing": "Free trial + paid plans", "featured": false
+  },
+  {
+    "slug": "woebot",
+    "name": "Woebot",
+    "category": "health-lifestyle",
+    "description": "Digital mental wellness support with guided conversations and evidence-based exercises.",
+    "tags": ["wellness", "mental-health"], "url": "https://woebothealth.com", "pricing": "Varies by access", "featured": false
+  },
+  {
+    "slug": "calm",
+    "name": "Calm",
+    "category": "health-lifestyle",
+    "description": "Mindfulness, meditation, sleep stories, and relaxation content for daily wellbeing.",
+    "tags": ["meditation", "sleep"], "url": "https://www.calm.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "headspace",
+    "name": "Headspace",
+    "category": "health-lifestyle",
+    "description": "Guided meditation, sleep, focus, and stress management programs.",
+    "tags": ["meditation", "wellness"], "url": "https://www.headspace.com", "pricing": "Free trial + paid plans", "featured": false
+  },
+  {
+    "slug": "zova",
+    "name": "Zova",
+    "category": "health-lifestyle",
+    "description": "Personal fitness coaching with guided workouts and activity recommendations.",
+    "tags": ["fitness", "workouts"], "url": "https://zova.com", "pricing": "Free trial + paid plans", "featured": false
+  },
+  {
+    "slug": "ada-health",
+    "name": "Ada Health",
+    "category": "health-lifestyle",
+    "description": "Health assessment assistant that helps organize symptoms and health information.",
+    "tags": ["health", "symptoms"], "url": "https://ada.com", "pricing": "Free", "featured": false
+  },
+  {
+    "slug": "youper",
+    "name": "Youper",
+    "category": "health-lifestyle",
+    "description": "AI mental health assistant for guided reflection, mood tracking, and emotional wellbeing.",
+    "tags": ["mental-health", "wellness"], "url": "https://www.youper.ai", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "wger",
+    "name": "Wger",
+    "category": "health-lifestyle",
+    "description": "Open fitness manager for workout plans, exercises, nutrition, and progress tracking.",
+    "tags": ["fitness", "open-source"], "url": "https://wger.de", "pricing": "Free", "featured": false
+  },
+  {
+    "slug": "lifesum",
+    "name": "Lifesum",
+    "category": "health-lifestyle",
+    "description": "Personal nutrition and lifestyle app with meal planning and healthy habit guidance.",
+    "tags": ["nutrition", "habits"], "url": "https://lifesum.com", "pricing": "Free tier + paid plans", "featured": false
+  },
+  {
+    "slug": "teal-resume-builder",
+    "name": "Teal Resume Builder",
+    "category": "resume-builder",
+    "description": "Build tailored resumes and track job applications with AI-powered keyword suggestions.",
+    "tags": ["resumes", "job-search", "ats"],
+    "url": "https://www.tealhq.com/tools/resume-builder",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "rezi",
+    "name": "Rezi",
+    "category": "resume-builder",
+    "description": "Create ATS-friendly resumes with AI writing, formatting, and job-specific optimization.",
+    "tags": ["resumes", "ats", "job-search"],
+    "url": "https://www.rezi.ai",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "kickresume",
+    "name": "Kickresume",
+    "category": "resume-builder",
+    "description": "Generate professional resumes and cover letters from templates with AI writing assistance.",
+    "tags": ["resumes", "cover-letters", "templates"],
+    "url": "https://www.kickresume.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "jobscan",
+    "name": "Jobscan",
+    "category": "resume-builder",
+    "description": "Compare your resume with job descriptions and improve its match for applicant tracking systems.",
+    "tags": ["resume-scanner", "ats", "job-search"],
+    "url": "https://www.jobscan.co",
+    "pricing": "Free trial + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "resume-io",
+    "name": "Resume.io",
+    "category": "resume-builder",
+    "description": "Create a polished resume quickly with guided content, professional templates, and export options.",
+    "tags": ["resumes", "templates", "career"],
+    "url": "https://resume.io",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "novoresume",
+    "name": "Novorésumé",
+    "category": "resume-builder",
+    "description": "Design modern resumes and cover letters with career-focused templates and writing guidance.",
+    "tags": ["resumes", "cover-letters", "career"],
+    "url": "https://novoresume.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "enhancv",
+    "name": "Enhancv",
+    "category": "resume-builder",
+    "description": "Build visually distinctive resumes with AI-powered content suggestions and career storytelling.",
+    "tags": ["resumes", "personal-branding", "career"],
+    "url": "https://enhancv.com",
+    "pricing": "Free trial + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "standard-resume",
+    "name": "Standard Resume",
+    "category": "resume-builder",
+    "description": "Create clean, professional resumes from structured profiles and export them for applications.",
+    "tags": ["resumes", "profiles", "templates"],
+    "url": "https://standardresume.co",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "resumaker-ai",
+    "name": "Resume Maker",
+    "category": "resume-builder",
+    "description": "Generate resume sections and tailored professional summaries from your experience and goals.",
+    "tags": ["resumes", "ai-writing", "career"],
+    "url": "https://resumaker.ai",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "skillroads",
+    "name": "Skillroads",
+    "category": "resume-builder",
+    "description": "Create an AI-assisted resume and discover career recommendations based on your skills.",
+    "tags": ["resumes", "career", "skills"],
+    "url": "https://skillroads.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "smallpdf",
+    "name": "Smallpdf",
+    "category": "pdf-converter",
+    "description": "Convert, compress, merge, split, sign, and edit PDF files directly in your browser.",
+    "tags": ["pdf-converter", "pdf-editor", "documents"],
+    "url": "https://smallpdf.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "ilovepdf",
+    "name": "iLovePDF",
+    "category": "pdf-converter",
+    "description": "Manage PDF files with tools for conversion, compression, merging, editing, and OCR.",
+    "tags": ["pdf-converter", "ocr", "documents"],
+    "url": "https://www.ilovepdf.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "adobe-acrobat-ai",
+    "name": "Adobe Acrobat AI Assistant",
+    "category": "pdf-converter",
+    "description": "Ask questions about PDFs, summarize documents, and extract key information with AI assistance.",
+    "tags": ["pdf-ai", "summarization", "documents"],
+    "url": "https://www.adobe.com/acrobat/generative-ai-pdf.html",
+    "pricing": "Free trial + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "pdfgear",
+    "name": "PDFgear",
+    "category": "pdf-converter",
+    "description": "Free PDF editor with AI chat, document conversion, annotation, and page management tools.",
+    "tags": ["pdf-editor", "pdf-ai", "documents"],
+    "url": "https://www.pdfgear.com",
+    "pricing": "Free",
+    "featured": false
+  },
+  {
+    "slug": "sejda-pdf",
+    "name": "Sejda PDF",
+    "category": "pdf-converter",
+    "description": "Edit, fill, sign, compress, and convert PDFs with a simple online document toolkit.",
+    "tags": ["pdf-editor", "forms", "documents"],
+    "url": "https://www.sejda.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "pdf24",
+    "name": "PDF24 Tools",
+    "category": "pdf-converter",
+    "description": "A broad collection of free browser tools for creating, converting, editing, and securing PDFs.",
+    "tags": ["pdf-converter", "pdf-editor", "free"],
+    "url": "https://tools.pdf24.org",
+    "pricing": "Free",
+    "featured": false
+  },
+  {
+    "slug": "pdf-ai",
+    "name": "ChatPDF",
+    "category": "pdf-converter",
+    "description": "Chat with uploaded PDF documents to ask questions, find details, and understand long files faster.",
+    "tags": ["pdf-ai", "chat", "summarization"],
+    "url": "https://www.chatpdf.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "humata",
+    "name": "Humata",
+    "category": "pdf-converter",
+    "description": "Ask questions, summarize, and analyze research papers and other PDF documents with AI.",
+    "tags": ["pdf-ai", "research", "summarization"],
+    "url": "https://www.humata.ai",
+    "pricing": "Free tier + paid plans",
+    "featured": false
+  },
+  {
+    "slug": "docsumo",
+    "name": "Docsumo",
+    "category": "pdf-converter",
+    "description": "Extract structured data from PDFs and documents with intelligent document processing workflows.",
+    "tags": ["data-extraction", "ocr", "automation"],
+    "url": "https://www.docsumo.com",
+    "pricing": "Paid plans only",
+    "featured": false
+  },
+  {
+    "slug": "nanonets",
+    "name": "Nanonets",
+    "category": "pdf-converter",
+    "description": "Convert documents and PDFs into structured, usable data with AI-powered OCR and extraction.",
+    "tags": ["ocr", "data-extraction", "automation"],
+    "url": "https://nanonets.com",
+    "pricing": "Free trial + paid plans",
+    "featured": false
+  }
+]
