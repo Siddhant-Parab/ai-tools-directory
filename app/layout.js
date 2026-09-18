@@ -11,6 +11,11 @@ export const metadata = {
   title: "Free AI Tools Directory — Updated Daily | BestTools",
   description:
     "Discover the best free AI tools, updated daily. Browse 110 tools across chat, image, video, voice, music, writing, code, design, business, study, and website building.",
+  icons: {
+    icon: "/favicon.svg",
+    shortcut: "/favicon.svg",
+    apple: "/favicon.svg",
+  },
 };
 
 export default function RootLayout({ children }) {
