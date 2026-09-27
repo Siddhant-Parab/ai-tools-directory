@@ -2068,5 +2068,15 @@
     "url": "https://nanonets.com",
     "pricing": "Free trial + paid plans",
     "featured": false
+  },
+  {
+    "slug": "photogenerai",
+    "name": "PhotoGenerAI",
+    "category": "image",
+    "description": "Free AI photo generator and editor — create and edit photos in the browser with text-to-image, image-to-image, and enhancement presets. No sign-up required.",
+    "tags": ["image-generation", "photo-editing", "free-tier"],
+    "url": "https://photogenerai.com",
+    "pricing": "Free tier + paid plans",
+    "featured": false
   }
 ]
