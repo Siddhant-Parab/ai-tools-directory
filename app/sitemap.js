@@ -1,4 +1,5 @@
 import { getCategories, getTools } from "@/lib/data";
+import { comparisons, landingPages } from "@/lib/seo-content";
 
 const siteUrl = (process.env.NEXT_PUBLIC_SITE_URL || "https://besttools.ai").replace(
   /\/$/,
@@ -17,6 +18,16 @@ export default function sitemap() {
     changeFrequency: "monthly",
     priority: 0.7,
   }));
+  const guides = landingPages.map((page) => ({
+    url: `${siteUrl}/${page.slug}`,
+    changeFrequency: "monthly",
+    priority: 0.8,
+  }));
+  const comparisonPages = comparisons.map((comparison) => ({
+    url: `${siteUrl}/compare/${comparison.slug}`,
+    changeFrequency: "monthly",
+    priority: 0.7,
+  }));
 
   return [
     {
@@ -31,5 +42,7 @@ export default function sitemap() {
     },
     ...categories,
     ...tools,
+    ...guides,
+    ...comparisonPages,
   ];
 }

@@ -8,9 +8,10 @@ import Footer from "@/components/Footer";
 // `import { Space_Grotesk, Inter } from "next/font/google"` — see README.
 
 export const metadata = {
-  title: "Free AI Tools Directory — Updated Daily | BestTools",
+  metadataBase: new URL("https://besttools.ai"),
+  title: "Best AI Tools 2026: Free & Paid Tools for Every Task | BestTools",
   description:
-    "Discover the best free AI tools, updated daily. Browse 110 tools across chat, image, video, voice, music, writing, code, design, business, study, and website building.",
+    "Discover and compare free and paid AI tools for writing, coding, images, video, study, business, PDFs, and productivity.",
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",
