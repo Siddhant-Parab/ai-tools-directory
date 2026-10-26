@@ -2068,5 +2068,15 @@
     "url": "https://nanonets.com",
     "pricing": "Free trial + paid plans",
     "featured": false
+  },
+  {
+    "slug": "agent-qa",
+    "name": "agent-qa",
+    "category": "code",
+    "description": "Natural-language testing for web, Android, and iOS apps with persistent memory, validated self-improvement, and CLI/MCP workflows.",
+    "tags": ["testing", "qa", "mcp", "mobile", "persistent-memory"],
+    "url": "https://vostride.com",
+    "pricing": "Free local package; model-provider usage billed separately",
+    "featured": false
   }
 ]
